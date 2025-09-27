@@ -1,6 +1,6 @@
 # CSS Position Properties
 
-This is a fun project for clear a understanding of CSS position properties and z-index
+This is a fun project for a clear understanding of CSS position properties and z-index
 
 ## 1. `static`
 - Default position; elements are placed in the normal document flow without special positioning.
