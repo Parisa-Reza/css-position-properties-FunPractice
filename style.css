@@ -7,7 +7,7 @@ body {
 
     background-image:
         linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("img/ogp_en.jpg");
+        url("img/aib.jpg");
 
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -63,3 +63,4 @@ img {
     z-index: 60;
     top: 550px;
 }
+
