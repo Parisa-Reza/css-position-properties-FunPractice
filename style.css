@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+        url("img/ogp_en.jpg");
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+
+
+}
+
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1200px;
+
+}
+
+
+img {
+    width: 130px;
+    height: 220px;
+}
+
+#card1 {
+    position: fixed;
+    z-index: 100;
+    top: 0;
+
+}
+
+#card2 {
+    position: absolute;
+    z-index: 90;
+    top: 160px;
+}
+
+#card3 {
+    position: absolute;
+    z-index: 80;
+    top: 300px;
+}
+
+#card4 {
+    position: absolute;
+    z-index: 70;
+    top: 450px;
+}
+
+#card5 {
+    position: absolute;
+    z-index: 60;
+    top: 550px;
+}
